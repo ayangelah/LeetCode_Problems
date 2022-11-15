@@ -7,6 +7,7 @@ You can return the answer in any order.
 */
 
 #include <vector>
+using namespace std;
 
 class Solution
 {
