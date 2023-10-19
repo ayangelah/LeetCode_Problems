@@ -18,6 +18,9 @@ class TreeNode(object):
         self.left = left
         self.right = right
 
+# make dictionary where key = name of node, value = pointer to node
+
+
 # Tree traversal:
 
 
